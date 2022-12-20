@@ -8,7 +8,7 @@
 </p>
 
 ---
-## General Disclaimer
+### General Disclaimer
 This repository contains Digital Financial Advisory (DiFA) models trained from scratch to give the user risk profiling and to suggest the best investment they can do right away! The following list provides an overview of all currently available models.
 
 ---
@@ -22,6 +22,7 @@ The pressures of rising prices and tightening external finance post COVID-19 is 
 
 This project is created to help people in Indonesia to understand more about banking and investment. By creating Digital Financial Advisory (DiFA), DiFA models have a main goal to give the best solution for investors to know directly their *Risk Profiling* of Mutual Funds. Another features that are available from DiFA is also to recommend investors which Mutual Funds and Stocks with the best bid for that day based on investors' profile.
 
+---
 ## 1. Investor Profiling
 Through DiFA, this is to assess users which **Risk Profile** based on users charaacteristics and personality. New users or investors will be asked to fill some questionnaires (10 questions) which are related to:
 - Investment Time Horizon
