@@ -11,9 +11,17 @@
 ## General Disclaimer
 This repository contains Digital Financial Advisory (DiFA) models trained from scratch to give the user risk profiling and to suggest the best investment they can do right away! The following list provides an overview of all currently available models.
 
-DiFA models have a main goal to give the best solution for investors to know directly their *Risk Profiling* of Mutual Funds. Another features that are available from DiFA is also to recommend investors which Mutual Funds and Stocks with the best bid for that day based on investors' profile.
-
 ---
+## Project's Background
+What is happening with Indonesia's financial condition?
+
+The pressures of rising prices and tightening external finance post COVID-19 is not only an international problem, Indonesia is also affected by this. Based on World Bank, there are at least three pillars to strengthen Indonesia's Economy and Financial Sector:
+- Increase demand and supply of finance by **increasing access to and usage of financial services**, broadening and improving the quality of financial market products and mobilizing long-term savings.
+- Improve allocation of resources through the financial sector by **promoting competition in the banking sector, strengthening the insolvency framework, and protecting consumers**
+- **Strengthen the capacity of the financial system** to withstand financial and non-financial shocks by strengthening the effectiveness of financial sector oversight, strengthening crisis preparedness and resolution framework, and promoting climate and natural disaster related risk management.
+
+This project is created to help people in Indonesia to understand more about banking and investment. By creating Digital Financial Advisory (DiFA), DiFA models have a main goal to give the best solution for investors to know directly their *Risk Profiling* of Mutual Funds. Another features that are available from DiFA is also to recommend investors which Mutual Funds and Stocks with the best bid for that day based on investors' profile.
+
 ## 1. Investor Profiling
 Through DiFA, this is to assess users which **Risk Profile** based on users charaacteristics and personality. New users or investors will be asked to fill some questionnaires (10 questions) which are related to:
 - Investment Time Horizon
