@@ -2,10 +2,10 @@
 
 # DiFA
 
+<p align="center">"Your personal Digital Financial Advisory for Mutual Funds"</p>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1053904949265829930/1054578020792414228/logodifa.png?width=636&height=636"></img>
 </p>
-<p align="center">"Your personal Digital Financial Advisory for Mutual Funds"</p>
 
 ---
 ## General Disclaimer
