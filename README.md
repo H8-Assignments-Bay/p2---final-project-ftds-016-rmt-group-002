@@ -47,4 +47,6 @@ Blablabla
 
 ---
 ### Shout-Outs
-- write some references here
+- World Bank: https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-iep-june-2022-financial-deepening-for-stronger-growth-and-sustainable-recovery
+- Sample Investor Questionnaire: https://mfda.ca/ipq/
+- Vanguard: https://investor.vanguard.com/home
