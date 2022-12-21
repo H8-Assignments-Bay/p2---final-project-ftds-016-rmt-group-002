@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1053904949265829930/1054578020792414228/logodifa.png?width=636&height=636"></img>
 </p>
-Created by:
+Repository contributors:
 
 [Anggara Sustina](https://www.linkedin.com/in/anggara-sutisna/), [Muhammad Afif Alvan](https://www.linkedin.com/in/afif-alvan/), [Muhamad Natual Hisak](https://www.linkedin.com/in/natual-hisak-13116719a/), [Muhammad Julizar](https://www.linkedin.com/in/muhammadjulizar/), [Nadia Oktiarsy](https://www.linkedin.com/in/nadiaoktiarsy/), and [Sri Wahyuni](https://www.linkedin.com/in/sri-wahyuni-/)
 
