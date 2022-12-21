@@ -50,7 +50,7 @@ After investors know their risk profile, they will directly be informed the most
 [DiFA Demo Program](https://youtu.be/mzxee4i6kz0)
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/953902120199917628/1055175267578040361/finpro_1.gif"></img>
+  <img src="https://github.com/H8-Assignments-Bay/p2---final-project-ftds-016-rmt-group-002/blob/main/Studio_Project.gif"></img>
 </p>
 
 ---
