@@ -9,7 +9,7 @@
 </p>
 Created by:
 
-Anggara Sustina, [Muhammad Afif Alvan](https://www.linkedin.com/in/afif-alvan/), [Muhamad Natual Hisak](https://www.linkedin.com/in/natual-hisak-13116719a/), [Muhammad Julizar](https://www.linkedin.com/in/muhammadjulizar/), [Nadia Oktiarsy](https://www.linkedin.com/in/nadiaoktiarsy/), and [Sri Wahyuni](https://www.linkedin.com/in/sri-wahyuni-/)
+[Anggara Sustina](https://www.linkedin.com/in/anggara-sutisna/), [Muhammad Afif Alvan](https://www.linkedin.com/in/afif-alvan/), [Muhamad Natual Hisak](https://www.linkedin.com/in/natual-hisak-13116719a/), [Muhammad Julizar](https://www.linkedin.com/in/muhammadjulizar/), [Nadia Oktiarsy](https://www.linkedin.com/in/nadiaoktiarsy/), and [Sri Wahyuni](https://www.linkedin.com/in/sri-wahyuni-/)
 
 ---
 ### General Disclaimer
