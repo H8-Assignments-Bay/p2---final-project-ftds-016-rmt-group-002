@@ -35,14 +35,12 @@ Through DiFA, this is to assess users which **Risk Profile** based on users char
 - Risk Attitude
 
 After new users/investors submit the questions, they will be directly classified as one of three profiles: \
-**1. Low Risk Investor**:
-> Investors tolerance for risk, portfolio volatility and investment losses is high or very high. Investors are willing to tolerate potentially significant and sustained price fluctuations and large losses of capital. Investors have extensive investment knowledge. Investors have no income requirements from your investments and have a long investment time horizon.
 
-**2. Medium Risk Investor**:
-> Investors have a moderate tolerance for risk and loss of capital. Investors are willing to tolerate some fluctuations in your investment returns and moderate losses of capital. Investors have at least a medium term investment time horizon. The objective of investors portfolio will be to provide a combination of income and long term capital growth and therefore the portfolio will include at least 40% in fixed income investments.
-
-**3. High Risk Investor**: 
-> Investors have a low tolerance for risk and potential loss of capital or a short investment time horizon. Investors are willing to accept some short term fluctuations and small losses in your investment portfolio in exchange for modest returns. The primary objective of your investment portfolio will be to provide income by investing primarily in funds that invest in fixed-income securities. While capital appreciation is not a priority, a small portion of the portfolio may be invested in equity funds to provide the potential for some growth to offset the impact of inflation.
+| Profile        | Description           |
+| ------------- |-------------|
+| *Low Risk Investor* | Investors tolerance for risk, portfolio volatility and investment losses is high or very high. Investors are willing to tolerate potentially significant and sustained price fluctuations and large losses of capital. Investors have extensive investment knowledge. Investors have no income requirements from your investments and have a long investment time horizon. |
+| *Medium Risk Investor*| Investors have a moderate tolerance for risk and loss of capital. Investors are willing to tolerate some fluctuations in your investment returns and moderate losses of capital. Investors have at least a medium term investment time horizon. The objective of investors portfolio will be to provide a combination of income and long term capital growth and therefore the portfolio will include at least 40% in fixed income investments. |
+| *High Risk Investor* | Investors have a low tolerance for risk and potential loss of capital or a short investment time horizon. Investors are willing to accept some short term fluctuations and small losses in your investment portfolio in exchange for modest returns. The primary objective of your investment portfolio will be to provide income by investing primarily in funds that invest in fixed-income securities. While capital appreciation is not a priority, a small portion of the portfolio may be invested in equity funds to provide the potential for some growth to offset the impact of inflation.|
 
 ## 2. Mutual Funds Recommendation
 Blablablabla
@@ -52,6 +50,6 @@ Blablabla
 
 ---
 ### Shout-Outs
-- World Bank: https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-iep-june-2022-financial-deepening-for-stronger-growth-and-sustainable-recovery
-- Sample Investor Questionnaire: https://mfda.ca/ipq/
-- Vanguard: https://investor.vanguard.com/home
+- [World Bank](https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-iep-june-2022-financial-deepening-for-stronger-growth-and-sustainable-recovery)
+- [Sample Investor Questionnaire](https://mfda.ca/ipq/)
+- [Vanguard](https://investor.vanguard.com/home)
