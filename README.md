@@ -2,10 +2,14 @@
 
 # DiFA
 
-<p align="center">"Your personal Digital Financial Advisory for Mutual Funds"</p>
+<h3 align="center">Your personal Digital Financial Advisory for Mutual Funds</h3>
+
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1053904949265829930/1054578020792414228/logodifa.png?width=636&height=636"></img>
 </p>
+Created by:
+
+Anggara Sustina, [Muhammad Afif Alvan](https://www.linkedin.com/in/afif-alvan/), [Muhamad Natual Hisak](https://www.linkedin.com/in/natual-hisak-13116719a/), [Muhammad Julizar](https://www.linkedin.com/in/muhammadjulizar/), [Nadia Oktiarsy](https://www.linkedin.com/in/nadiaoktiarsy/), and [Sri Wahyuni](https://www.linkedin.com/in/sri-wahyuni-/)
 
 ---
 ### General Disclaimer
