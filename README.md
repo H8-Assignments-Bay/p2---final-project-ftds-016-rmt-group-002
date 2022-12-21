@@ -46,10 +46,17 @@ After new users/investors submit the questions, they will be directly classified
 After investors know their risk profile, they will directly be informed the most recommended Mutual Funds. In this model, we have 10 Mutual Funds for each Risk Profile. The top 3 Mutual Funds that have the best prediction of NAV (Net Asset Value) will be shown especially for **Low** and **Medium Risk Profile**. Meanwhile, for **High Risk Profile**, investors will get further information not only NAV (Net Asset Value) but also Stocks that are going to increase.
 
 ## 3. How to use DiFA
-Insert GIFs or video (Demo Program)
+
+[DiFA Demo Program](https://youtu.be/mzxee4i6kz0)
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/953902120199917628/1055175267578040361/finpro_1.gif"></img>
+</p>
 
 ---
 ### Shout-Outs
 - [World Bank](https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-iep-june-2022-financial-deepening-for-stronger-growth-and-sustainable-recovery)
 - [Sample Investor Questionnaire](https://mfda.ca/ipq/)
 - [Vanguard](https://investor.vanguard.com/home)
+- [Bareksa](https://www.bareksa.com/)
+- [Bibit.com](https://bibit.id/)
