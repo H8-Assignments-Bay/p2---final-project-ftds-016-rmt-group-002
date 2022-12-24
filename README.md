@@ -52,6 +52,7 @@ After investors know their risk profile, they will directly be informed the most
 <p align="center">
   <img src="https://github.com/H8-Assignments-Bay/p2---final-project-ftds-016-rmt-group-002/blob/main/Studio_Project.gif"></img>
 </p>
+
 [DiFA Deployment](https://huggingface.co/spaces/NatualHisak/DiFA)
 
 
