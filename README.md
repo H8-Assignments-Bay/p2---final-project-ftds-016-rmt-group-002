@@ -53,7 +53,8 @@ After investors know their risk profile, they will directly be informed the most
   <img src="https://github.com/H8-Assignments-Bay/p2---final-project-ftds-016-rmt-group-002/blob/main/Studio_Project.gif"></img>
 </p>
 [DiFA Deployment](https://huggingface.co/spaces/NatualHisak/DiFA)
----
+
+
 ### Shout-Outs
 - [World Bank](https://www.worldbank.org/en/country/indonesia/publication/indonesia-economic-prospects-iep-june-2022-financial-deepening-for-stronger-growth-and-sustainable-recovery)
 - [Sample Investor Questionnaire](https://mfda.ca/ipq/)
