@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+seaborn
+numpy
+scikit-learn
+plotly
+streamlit_option_menu
+yfinance
+
+
